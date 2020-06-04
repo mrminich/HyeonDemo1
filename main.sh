@@ -1,5 +1,5 @@
 echo Hello World
-echo mr.minich
+echo mr.minich is cool
 echo hello everyone
 
 
